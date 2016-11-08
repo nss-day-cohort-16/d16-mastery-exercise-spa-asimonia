@@ -1,7 +1,10 @@
 .inventory-card {
-	border: 1px dotted grey;
-	padding: 5px;
-	margin: 5px 0;
-	float: left;
-	width: 30%;
+  border: 2px solid black;
+  background: pink;
+  border-radius: 1em;
+  height: 20em;
+  padding: 2em;
+  -webkit-box-shadow: 10px 10px 59px -5px rgba(0,0,0,0.53);
+  -moz-box-shadow: 10px 10px 59px -5px rgba(0,0,0,0.53);
+  box-shadow: 10px 10px 59px -5px rgba(0,0,0,0.53);
 }

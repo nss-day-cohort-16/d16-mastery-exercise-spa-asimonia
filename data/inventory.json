@@ -1,25 +1,52 @@
 {
   "cars": [
     {
+      "vin": "nr2006",
       "make": "Nissan",
       "model": "Rogue",
       "year": "2006",
-      "price": "8999",
+      "price": 8999,
       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     },
     {
+      "vin": "as2003",
       "make": "Acura",
       "model": "RSX",
       "year": "2003",
-      "price": "1999", 
+      "price": 1999, 
       "description": "Rusty 2003 Acura RSX with only 249402 miles on it. Fabric seats, manual everything."
     },
     {
+      "vin": "oc1993",
       "make": "Oldsmobile",
       "model": "Ciera",
       "year": "1993",
-      "price": "4999",
-      "description": "One of a kind Oldsmobile Ciera.  This is not your grandfather's automobile."
+      "price": 4999,
+      "description": "Leather seats.  Purrs like a kitty.  Shiny like a beautiful mug.  This is not your grandfather's automobile."
+    },
+    {
+      "vin": "ag1985",
+      "make": "Alfa Romeo",
+      "model": "GTV-6",
+      "year": "1985",
+      "price": 18999,
+      "description": "The 116 type chassis developed for racing since its first outing in the 1974 San Martino di Castrozza rallye."
+    },
+    {
+      "vin": "dp1984",
+      "make": "Datsun",
+      "model": "720 pickup",
+      "year": "1984",
+      "price": 7995, 
+      "description": "Has a 4cyl engine with 8 spark plugs. Fires up nicely every time. Runs like it's fuel injected, but has a carburetor."
+    },
+    {
+      "vin": "fe2004",
+      "make": "Ferrari",
+      "model": "Enzo",
+      "year": "2004",
+      "price": 2900000,
+      "description": "The Enzo can accelerate to 60 mph (97 km/h) in 3.14 seconds and can reach 100 mph (160 km/h) in 6.6 seconds."
     }
   ]
 }
