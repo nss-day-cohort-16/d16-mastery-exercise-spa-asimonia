@@ -1,4 +1,4 @@
-/*jshint esversion: 6 */
+"use strict";
 
 var CarLot = (function (oldCarLot) {
 
@@ -23,7 +23,6 @@ var CarLot = (function (oldCarLot) {
 
 		description.addEventListener("keyup", function (event) {
 			if (!edit) {
-				alert("Choose a car");
 				description.value = "";
 			} else {
 				description = event.target.value;

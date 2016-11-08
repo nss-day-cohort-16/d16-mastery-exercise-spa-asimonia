@@ -1,10 +1,10 @@
-/*jshint esversion: 6 */
+"use strict";
 
 var CarLot = (function (oldCarLot) {
-	var _inventory = [];
+	let _inventory = [];
 
 	oldCarLot.loadInventory = function (callback) {
-		var inventoryLoader = new XMLHttpRequest();
+		let inventoryLoader = new XMLHttpRequest();
 		inventoryLoader.open("GET", "data/inventory.json");
 		inventoryLoader.send();
 
