@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 var CarLot = (function (oldCarLot) {
 
 	oldCarLot.activateEvents = function () {
@@ -10,6 +12,7 @@ var CarLot = (function (oldCarLot) {
 			cards[i].addEventListener("click", function(event) {
 				document.getElementById("description").focus();
 				edit = event.currentTarget;
+				console.log(edit);
 				for (let z = 0; z < cards.length; z++) {
 					CarLot.nullify(cards[z]);
 				}

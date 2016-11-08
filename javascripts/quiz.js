@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 function populatePage (inventory) {
   // Loop over the inventory and populate the page
   var carListing = document.getElementById("carListing");

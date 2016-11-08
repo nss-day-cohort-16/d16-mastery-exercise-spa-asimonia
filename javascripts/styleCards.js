@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 var CarLot = (function (oldCarLot) {
 
 	oldCarLot.nullify = function (card) {
