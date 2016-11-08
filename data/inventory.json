@@ -8,18 +8,18 @@
       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     },
     {
-      "make": "Nissan",
-      "model": "Rogue",
-      "year": "2006",
-      "price": "8999",
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "make": "Acura",
+      "model": "RSX",
+      "year": "2003",
+      "price": "1999", 
+      "description": "Rusty 2003 Acura RSX with only 249402 miles on it. Fabric seats, manual everything."
     },
     {
-      "make": "Nissan",
-      "model": "Rogue",
-      "year": "2006",
-      "price": "8999",
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "make": "Oldsmobile",
+      "model": "Ciera",
+      "year": "1993",
+      "price": "4999",
+      "description": "One of a kind Oldsmobile Ciera.  This is not your grandfather's automobile."
     }
   ]
 }
