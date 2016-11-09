@@ -1,0 +1,19 @@
+.inventory-card {
+  border: 2px solid black;
+  background: pink;
+  border-radius: 1em;
+  height: 20em;
+  padding: 2em;
+  -webkit-box-shadow: 10px 10px 59px -5px rgba(0, 0, 0, 0.53);
+  -moz-box-shadow: 10px 10px 59px -5px rgba(0, 0, 0, 0.53);
+  box-shadow: 10px 10px 59px -5px rgba(0, 0, 0, 0.53); }
+
+body {
+  background-color: salmon;
+  padding: 1.5em; }
+
+.container .row {
+  margin-top: 3em;
+  margin-bottom: 3em; }
+
+/*# sourceMappingURL=quiz.css.map */
